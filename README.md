@@ -1,5 +1,6 @@
 # dijkstra
-EC II Assignment using Java to implement Dijkstra algorithm
+Portfolio 3
+SD / EC-II Assignment using Java to implement Dijkstra algorithm
 
 
 ABDUL HALIM\
